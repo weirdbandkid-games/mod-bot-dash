@@ -1,9 +1,4 @@
-# NdT3 Discord Bot
-
-## Development has been stopped
-**Read more at https://blog.truewinter.dev/2020/04/09/development-and-support-for-my-discord-bot-has-been-stopped**
-
-This is my first Discord bot made using [Discord.js](https://github.com/hydrabolt/discord.js).
+# weirdband
 
 ## It currently has these features:
   - Kicking users
