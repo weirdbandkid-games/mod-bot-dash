@@ -136,7 +136,7 @@ For the dashboard, you may change the theme, wording, design, links, etc. howeve
 
 Want to contribute?
 
-NdT3 Discord Bot is written in Discord.js. If you want to add a feature or work on the code, feel free make a pull request and your code might be accepted.
+weirdbandkid's Mod Bot is written in Discord.js. If you want to add a feature or work on the code, feel free make a pull request and your code might be accepted.
 
 ## Credits
 
