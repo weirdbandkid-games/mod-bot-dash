@@ -1,4 +1,4 @@
-# weirdband
+# weirdbandkid's Mod Bot
 
 ## It currently has these features:
   - Kicking users
