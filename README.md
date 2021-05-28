@@ -51,7 +51,7 @@ var config = { // NOTE: DO NOT LEAVE ANYTHING BLANK
   logTimeFormat: 'D MMM YYYY HH:mm:ss ZZ',
   musicEnabled: 'true',
 	defaultSettings: {
-		prefix: '!',
+		prefix: '-',
 		modLogChannel: 'mod-log',
 		modRole: 'Moderator',
 		adminRole: 'Admin',
