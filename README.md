@@ -82,7 +82,7 @@ var config = { // NOTE: DO NOT LEAVE ANYTHING BLANK
 		borderedStats: 'false', // Controls whether stats in the dashboard should have a border or not
 		legalTemplates: {
 			contactEmail: 'support@dashboard.bot-website.com', // This email will be used in the legal page of the dashboard if someone needs to contact you for any reason regarding this page
-			lastEdited: '18 November 2017' // Change this if you update the `TERMS.md` or `PRIVACY.md` files in `dashboard/public/`
+			lastEdited: 'April 25, 2021' // Change this if you update the `TERMS.md` or `PRIVACY.md` files in `dashboard/public/`
 		}
 	}
 };
