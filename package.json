@@ -1,6 +1,6 @@
 {
-  "name": "ndt3-discord-bot",
-  "version": "1.2.4",
+  "name": "mod-bot",
+  "version": "1.2.5",
   "description": "My first Discord bot made in Discord.js",
   "main": "bot.js",
   "dependencies": {
@@ -46,7 +46,7 @@
   "engines": {
     "node": "8.x"
   },
-  "author": "NdT3",
+  "author": "weirdbandkid",
   "license": "Apache-2.0",
   "devDependencies": {
     "jshint": "^2.9.5"
