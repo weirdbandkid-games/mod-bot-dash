@@ -8,7 +8,7 @@
     "bufferutil": "^3.0.2",
     "cheerio": "^0.22.0",
     "child_process": "^1.0.2",
-    "discord.js": "^11.2.1",
+    "discord.js": "^11.6.4",
     "djs-collection-persistent": "^0.1.4",
     "ejs": "^2.5.7",
     "enmap": "^0.4.2",
